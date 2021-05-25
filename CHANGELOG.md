@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.25.0](https://github.com/typescript-eslint/typescript-eslint/compare/v4.24.0...v4.25.0) (2021-05-24)
+
+
+### Bug Fixes
+
+* corrected no-unsupported-browser-code in roadmap as unimplemented ([#3407](https://github.com/typescript-eslint/typescript-eslint/issues/3407)) ([2319b0e](https://github.com/typescript-eslint/typescript-eslint/commit/2319b0e1847991b8b8902ff4a3b779f1a27c7a45))
+* **experimental-utils:** fix `isAwaitKeyword` predicate in ast-utils ([#3290](https://github.com/typescript-eslint/typescript-eslint/issues/3290)) ([c15da67](https://github.com/typescript-eslint/typescript-eslint/commit/c15da67b939b615ed063291cde12c55c0d6d236e))
+
+
+### Features
+
+* **typescript-estree:** [TS4.3] support overrides on class members ([#3429](https://github.com/typescript-eslint/typescript-eslint/issues/3429)) ([21d1b62](https://github.com/typescript-eslint/typescript-eslint/commit/21d1b62a0b84b502d2cf12674b3d141994a3ffd4))
+* **typescript-estree:** add support for getter/setter signatures on types ([#3427](https://github.com/typescript-eslint/typescript-eslint/issues/3427)) ([b830b7f](https://github.com/typescript-eslint/typescript-eslint/commit/b830b7f4e8a99affc8af8b53cb83371ef81d7032)), closes [#3272](https://github.com/typescript-eslint/typescript-eslint/issues/3272) [#3272](https://github.com/typescript-eslint/typescript-eslint/issues/3272)
+
+
+
+
+
+# [4.24.0](https://github.com/typescript-eslint/typescript-eslint/compare/v4.23.0...v4.24.0) (2021-05-17)
+
+
+### Bug Fixes
+
+* **eslint-plugin:** [no-shadow] fix static class method generics shadowing class generics ([#3393](https://github.com/typescript-eslint/typescript-eslint/issues/3393)) ([b1e1c8a](https://github.com/typescript-eslint/typescript-eslint/commit/b1e1c8a44695a58d29d19cf32ce35a8267bf506f)), closes [#2592](https://github.com/typescript-eslint/typescript-eslint/issues/2592)
+* **eslint-plugin:** [no-unsafe-*] special case handling for the empty map constructor with no generics ([#3394](https://github.com/typescript-eslint/typescript-eslint/issues/3394)) ([cae4f4a](https://github.com/typescript-eslint/typescript-eslint/commit/cae4f4a0f33f8c954b1670d0abcfc8edd6193a06)), closes [#2109](https://github.com/typescript-eslint/typescript-eslint/issues/2109)
+
+
+### Features
+
+* **eslint-plugin:** [dot-notation] optionally allow square bracket notation where an index signature exists in conjunction with `noPropertyAccessFromIndexSignature` ([#3361](https://github.com/typescript-eslint/typescript-eslint/issues/3361)) ([37ec2c2](https://github.com/typescript-eslint/typescript-eslint/commit/37ec2c2264add3e6ce20ac4e02d48644afda3fa8))
+
+
+
+
+
 # [4.23.0](https://github.com/typescript-eslint/typescript-eslint/compare/v4.22.1...v4.23.0) (2021-05-10)
 
 
