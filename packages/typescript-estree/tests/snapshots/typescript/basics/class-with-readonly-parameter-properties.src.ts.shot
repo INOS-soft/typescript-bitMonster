@@ -91,6 +91,7 @@ Object {
                       "line": 2,
                     },
                   },
+                  "override": undefined,
                   "parameter": Object {
                     "loc": Object {
                       "end": Object {
@@ -164,6 +165,7 @@ Object {
                       "line": 3,
                     },
                   },
+                  "override": undefined,
                   "parameter": Object {
                     "left": Object {
                       "loc": Object {
