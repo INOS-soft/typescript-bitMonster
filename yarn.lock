@@ -4023,9 +4023,9 @@ eslint-plugin-eslint-comments@^3.2.0:
     ignore "^5.0.5"
 
 eslint-plugin-eslint-plugin@^3.0.3:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-eslint-plugin/-/eslint-plugin-eslint-plugin-3.1.0.tgz#1d5c54f30b1bddf9b34b1f1dc1a4dff0efec4f79"
-  integrity sha512-Czb+Dx7ktQ3fFocksu9mF1xBhEzqMhu8g9eaaxpMlnrcDPE7kwIrDo0ttpCDsVEFH9FHWbZ3EzSnQG2gb5miHg==
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-eslint-plugin/-/eslint-plugin-eslint-plugin-3.6.1.tgz#6c93655c9345f36874cc4f8aba4f89c81d47b8fe"
+  integrity sha512-SOE0aoS2+lvtcEbJmy98gEKaxcpkQdxDtqvqE0VQSiGEFme8yTNjpLAjMqPDmmj8KGTwIFd+cYnVykz+9HAIiw==
   dependencies:
     eslint-utils "^2.1.0"
 
